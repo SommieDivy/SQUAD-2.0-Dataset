@@ -24,3 +24,6 @@ In this project, you will become a Deep Learning NLP researcher!  The goal of th
 # Stage III
 
   - Build a new machine comprehension leaderboard based on Stage II
+
+[1] https://rajpurkar.github.io/SQuAD-explorer/
+[2] https://neo4j.com
