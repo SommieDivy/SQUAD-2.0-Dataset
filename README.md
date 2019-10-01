@@ -29,4 +29,5 @@ In this project, you will become a Deep Learning NLP researcher!  The goal of th
 [2] https://neo4j.com \
 [3] How to build QA: https://www.youtube.com/watch?v=ohM7D21C_8Q \
 [4] https://github.com/naver/qadiver \
-[5] https://github.com/commonsense/conceptnet5/wiki
+[5] https://github.com/commonsense/conceptnet5/wiki \
+[6]https://softwareagentcenter.com/thesis/commonsensel2/
